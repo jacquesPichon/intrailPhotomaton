@@ -34,7 +34,7 @@ Podium finisher. on prend les photos au moment de l'arrivée. Meme démarche ave
  - afficher une photo à la demande
  
 # Restriction du projet
-Le droit à l'image !!! Avertissement des utilisateur sur la diffusion de leur photo sur internet.
+Le droit à l'image !!! Avertissement des utilisateurs sur la diffusion de leur photo sur internet au moment de l'inscription.
 
 # objectifs
 une premiere version pour janvier. 
